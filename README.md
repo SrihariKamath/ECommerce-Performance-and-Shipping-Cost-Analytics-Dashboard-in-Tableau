@@ -50,15 +50,25 @@ Enable eCommerce stakeholders to make informed decisions on:
 ## 📁 File Structure
 
 📦 Ecommerce-Analytics-Dashboard
+
 ┣ 📂 assets/
+
 ┃ ┣ 📸 sales_dashboard.png
+
 ┃ ┗ 📸 shipping_dashboard.png
+
 ┣ 📂 data/
+
 ┃ ┗ 📄 fact_sales.csv
+
 ┃ ┗ 📄 dim_customers.csv
+
 ┃ ┗ 📄 dim_products.csv
+
 ┃ ┗ 📄 state_region_mapping.csv
+
 ┣ 📄 Ecommerce_Analysis.twb
+
 ┗  📄 README.md
 
 
